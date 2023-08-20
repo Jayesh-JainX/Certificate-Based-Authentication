@@ -1,1 +1,1 @@
-this is info
+this is info for server from client for ftp
